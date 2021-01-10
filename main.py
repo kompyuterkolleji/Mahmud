@@ -13,7 +13,7 @@ def start(update, context):
 
 def main():
     # Updaterni o'rnatib olamiz
-    updater = Updater('Token6', use_context=True)
+    updater = Updater('Token7', use_context=True)
 
     # Dispatcherni eventlarini aniqlash uchun
     dispatcher = updater.dispatcher
